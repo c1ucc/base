@@ -1,3 +1,2 @@
 # base (form)
-all my beginner projects /n
-saiyan saga
+for all of my beginner projects (saiyan saga)
