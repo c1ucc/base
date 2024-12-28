@@ -1,2 +1,2 @@
-# base (form)
-for all of my beginner projects (saiyan saga)
+# base
+for all of my beginner projects 
