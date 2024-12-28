@@ -1,2 +1,3 @@
-# base
-saiyan saga goku (beginner projects)
+# base (form)
+all my beginner projects 
+saiyan saga
